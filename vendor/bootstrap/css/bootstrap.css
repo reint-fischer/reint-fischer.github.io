@@ -6714,10 +6714,6 @@ a.close.disabled {
   background-color: #007bff !important;
 }
 
-.bg-hike-image {
-  background-image: url("images/twitter_kaart.jpeg");
-}
-
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,

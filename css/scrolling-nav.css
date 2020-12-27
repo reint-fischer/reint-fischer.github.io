@@ -7,6 +7,12 @@ header {
   padding: 156px 0 100px;
 }
 
+.bg-hike-image {
+  background-image: url("../images/website_kaart.jpeg");
+  background-position: center center;
+  background-size: 100%
+}
+
 section {
   padding: 150px 0;
 }
