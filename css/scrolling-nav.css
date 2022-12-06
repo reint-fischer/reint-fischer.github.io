@@ -34,5 +34,6 @@ header {
 }
 
 section {
+  height: 200px;
   padding: 150px 0;
 }
