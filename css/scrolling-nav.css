@@ -29,7 +29,8 @@ header {
 .bg-eqpac {
   background-image: url("https://i.imgur.com/YLjhMbx.gif");
   background-position: right center;
-  background-size: 100%
+  background-repeat: no-repeat;
+  background-size: contain
 }
 
 section {
