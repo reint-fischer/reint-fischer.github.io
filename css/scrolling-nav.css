@@ -19,6 +19,12 @@ header {
   background-size: 100%
 }
 
+.bg-bering-sea {
+  background-image: url("https://imgur.com/a/47GMzWj");
+  background-position: center center;
+  background-size: 100%
+}
+
 section {
   padding: 150px 0;
 }
