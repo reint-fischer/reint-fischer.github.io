@@ -24,7 +24,7 @@ header {
   background-image: url("../images/Bathymetry_map-IHO.png");
   background-position: right center;
   background-repeat: no-repeat;
-  background-size: 500px;
+  background-size: contain;
   max-width: 30%
 }
 
