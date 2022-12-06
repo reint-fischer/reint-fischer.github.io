@@ -16,6 +16,7 @@ header {
 .bg-bering-sea {
   background-image: url("../images/Bathymetry_map-IHO.png");
   background-position: right center;
+  background-repeat: no-repeat;
   background-size: contain
 }
 
