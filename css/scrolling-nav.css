@@ -15,13 +15,13 @@ header {
 
 .bg-bering-sea {
   background-image: url("../images/Bathymetry_map-IHO.png");
-  background-position: center center;
-  background-size: 100%
+  background-position: right center;
+  background-size: contain
 }
 
 .bg-eqpac {
   background-image: url("https://imgur.com/a/47GMzWj");
-  background-position: center center;
+  background-position: right center;
   background-size: 100%
 }
 
