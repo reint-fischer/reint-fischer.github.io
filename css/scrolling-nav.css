@@ -7,6 +7,12 @@ header {
   padding: 156px 0 100px;
 }
 
+.bg-sea-ice {
+  background-image: url("../images/Image from iOS.jpg");
+  background-position: center center;
+  background-size: 100%
+}
+
 .bg-hike-image {
   background-image: url("../images/website_kaart.jpeg");
   background-position: center center;
