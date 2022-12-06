@@ -13,6 +13,12 @@ header {
   background-size: 100%
 }
 
+.bg-bering-sea {
+  background-image: url("../images/Bathymetry_map-IHO.jpg");
+  background-position: center center;
+  background-size: 100%
+}
+
 section {
   padding: 150px 0;
 }
