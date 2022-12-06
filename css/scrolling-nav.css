@@ -9,14 +9,15 @@ header {
 
 .bg-sea-ice {
   background-image: url("../images/Image from iOS.jpg");
-  background-position: center center;
+  background-position: center top;
   background-size: 100%
 }
 
 .bg-hike-image {
   background-image: url("../images/website_kaart.jpeg");
-  background-position: center center;
-  background-size: 100%
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: contain
 }
 
 .bg-bering-sea {
