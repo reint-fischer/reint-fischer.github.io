@@ -17,7 +17,7 @@ header {
   background-image: url("../images/reint.jpeg");
   background-position: right center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 10%;
 }
 
 .bg-hike-image {
