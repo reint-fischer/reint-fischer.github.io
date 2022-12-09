@@ -24,8 +24,7 @@ header {
   background-image: url("../images/website_kaart.jpeg");
   background-position: right center;
   background-repeat: no-repeat;
-  background-size: contain;
-  background-width: 25%;
+  background-size: min(contain, 10%);
 }
 
 .bg-bering-sea {
@@ -33,7 +32,6 @@ header {
   background-position: right center;
   background-repeat: no-repeat;
   background-size: contain;
-  background-width: 25%;
 }
 
 .bg-eqpac {
