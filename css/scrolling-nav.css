@@ -53,3 +53,7 @@ header {
 section {
   padding: 150px 0;
 }
+
+div.project {
+  width: 200px
+}
