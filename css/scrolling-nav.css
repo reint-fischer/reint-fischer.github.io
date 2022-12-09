@@ -35,6 +35,14 @@ header {
   background-size: contain
 }
 
+
+.bg-eqpac {
+  background-image: url("../images/run_pass.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: contain
+}
+
 section {
   padding: 150px 0;
 }
