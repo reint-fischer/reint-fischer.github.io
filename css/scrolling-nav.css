@@ -36,6 +36,13 @@ header {
 }
 
 
+.bg-airtemps {
+  background-image: url("../images/Airtemps_color.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: contain
+}
+
 .bg-run-pass {
   background-image: url("../images/run_pass.png");
   background-position: right center;
