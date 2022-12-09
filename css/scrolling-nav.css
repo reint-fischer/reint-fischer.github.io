@@ -17,7 +17,7 @@ header {
   background-image: url("../images/website_kaart.jpeg");
   background-position: right center;
   background-repeat: no-repeat;
-  background-size: contain
+  width: 30%;
 }
 
 .bg-bering-sea {
